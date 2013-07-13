@@ -1,18 +1,18 @@
 List of icons identified in bitweaver that now need colour replacements
 
-icon-arrow-down
-icon-arrow-left
-icon-arrow-right
-icon-arrow-up
+icon-arrow-down              go-down
+icon-arrow-left              go-previous
+icon-arrow-right             go-next
+icon-arrow-up                go-up
 icon-asterisk
 icon-bolt
-icon-book
-icon-bookmark
+icon-book                    address-book-new
+icon-bookmark                user-bookmarks
 icon-bookmark-empty
 icon-browser
 icon-bullhorn
-icon-calendar
-icon-camera
+icon-calendar                x-office-calendar
+icon-camera                  camera-photo
 icon-circle-arrow-left
 icon-circle-arrow-right
 icon-cloud-download
@@ -21,17 +21,17 @@ icon-cloud-upload
 icon-comment
 icon-comments
 icon-comment-alt
-icon-copy
+icon-copy                    edit-copy
 icon-cog
-icon-cogs
-icon-cut
-icon-edit
+icon-cogs                    emblem-system
+icon-cut                     edit-cut
+icon-edit                    accessories-text-editor
 icon-envelope
 icon-envelope-alt
 icon-exclamation-sign
-icon-eye
-icon-eye-close
-icon-facetime-video
+icon-eye                     weather-clear
+icon-eye-close               weather-clear-night
+icon-facetime-video          x-office-presentation
 icon-file
 icon-file-alt
 icon-flag
@@ -39,14 +39,14 @@ icon-folder-open
 icon-folder-close
 icon-group
 icon-hdd
-icon-home
+icon-home                    go-home
 icon-inbox
 icon-key
 icon-lightbulb
 icon-link
 icon-list
 icon-list-alt
-icon-lock
+icon-lock                    emblem-readonly
 icon-minus-sign
 icon-money
 icon-ok
@@ -55,9 +55,10 @@ icon-ok
 icon-paperclip
 icon-picture
 icon-plus-sign
-icon-print
+icon-print                   document-print
 icon-question-sign
 icon-recycle
+icon-redo                    edit-redo
 icon-remove
 icon-remove-circle
 icon-resize-full
@@ -72,15 +73,16 @@ icon-sitemap
 icon-sort
 icon-tags
 icon-text
-icon-time
-icon-trash
-icon-undo
-icon-unlock
-icon-user
-icon-user-md
+icon-time                    appointment-new
+icon-trash                   edit-delete
+icon-undo                    edit-undo
+icon-unlock                  emblem-share
+icon-user                    system-search
+icon-user-md                 system-users
+icon-video                   camera-video
 icon-volume-down
 icon-volume-up
-icon-warning-sign
+icon-warning-sign            dialog-warning 
 icon-zoom-in
 icon-zoom-out
 
