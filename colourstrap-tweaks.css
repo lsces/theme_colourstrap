@@ -1,0 +1,31 @@
+
+/* bootstrap tweaks */
+.tab-pane	{ padding:10px; }
+header .navbar ul.nav 	{ width:100% }
+.nav.nav-tabs	{ margin-bottom:0; }
+.tab-content	{ background-color:white; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; border-right: 1px solid #ddd; margin-bottom:20px; }
+
+.form-inline select 	{ width:auto; font-size:12px; }
+.form-inline	{ margin-bottom:0; }
+.dropdown-menu	{ z-index:9999; }
+
+.navbar .form-search	{ padding-top:5px; }
+
+/* bitweaver specific - should move these to their own "light" theme" */
+#bittop	{padding:20px 0 20px 0;}
+header,
+section.maincontent	{margin-bottom:20px;}
+footer	{background:#cccccc;margin-top:20px;padding:20px 0;}
+footer .stats	{font-size:9pt;}
+
+.dropdown-menu	{float:right;}
+
+.dropdown-submenu.menu-admin > .dropdown-menu	{left: -95%; width:100%}
+.dropdown-submenu.menu-admin > .dropdown-menu > .dropdown-submenu > .dropdown-menu	{left: -95%; width:100%}
+
+.dropdown-menu > li.favorite > a       { font-weight: bold; }
+.dropdown-menu > li > a.sub-menu-root	{ cursor: default; }
+
+.navbar .nav > li.m-ilike	{ float:right; }
+
+/* vim: set ts=40: */
