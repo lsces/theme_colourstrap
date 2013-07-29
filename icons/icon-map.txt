@@ -1,90 +1,90 @@
 List of icons identified in bitweaver that now need colour replacements
 
-icon-arrow-down              go-down
-icon-arrow-left              go-previous
-icon-arrow-right             go-next
-icon-arrow-up                go-up
-icon-asterisk
-icon-bolt
-icon-book                    address-book-new
-icon-bookmark                user-bookmarks
-icon-bookmark-empty
-icon-browser
-icon-bullhorn
-icon-calendar                x-office-calendar
-icon-camera                  camera-photo
-icon-circle-arrow-left
-icon-circle-arrow-right
-icon-cloud-download
-icon-cloud-up
-icon-cloud-upload
-icon-comment
-icon-comments
-icon-comment-alt
-icon-copy                    edit-copy
-icon-cog
-icon-cogs                    emblem-system
-icon-cut                     edit-cut
-icon-edit                    accessories-text-editor
-icon-envelope
-icon-envelope-alt
-icon-exclamation-sign
-icon-eye                     weather-clear
-icon-eye-close               weather-clear-night
-icon-facetime-video          x-office-presentation
-icon-file
-icon-file-alt
-icon-flag
-icon-folder-open
-icon-folder-close
-icon-group
-icon-hdd
-icon-home                    go-home
-icon-inbox
-icon-key
-icon-lightbulb
-icon-link
-icon-list
-icon-list-alt
-icon-lock                    emblem-readonly
-icon-minus-sign
-icon-money
-icon-ok
-icon-ok-circle
-icon-ok
-icon-paperclip
-icon-picture
-icon-plus-sign
-icon-print                   document-print
-icon-question-sign
-icon-recycle
-icon-redo                    edit-redo
-icon-remove
-icon-remove-circle
-icon-resize-full
-icon-resize-small
-icon-rss
-icon-save
-icon-search
-icon-share
-icon-signin
-icon-signout
-icon-sitemap
-icon-sort
-icon-tags
-icon-text
-icon-time                    appointment-new
-icon-trash                   edit-delete
-icon-undo                    edit-undo
-icon-unlock                  emblem-share
-icon-user                    system-search
-icon-user-md                 system-users
-icon-video                   camera-video
-icon-volume-down
-icon-volume-up
-icon-warning-sign            dialog-warning 
-icon-zoom-in
-icon-zoom-out
+icon-anchor												anchor
+icon-arrow-down              go-down					arrow_up
+icon-arrow-left              go-previous				arrow_down
+icon-arrow-right             go-next					arrow_right	
+icon-arrow-up                go-up						arrow_up
+icon-asterisk											asterisk_orange
+icon-bolt												lightning
+icon-book                    address-book-new			book
+icon-bookmark                user-bookmarks				book_link
+icon-bookmark-empty										book_error
+icon-browser											computer
+icon-bullhorn											sound
+icon-calendar                x-office-calendar			calendar
+icon-camera                  camera-photo				camera
+icon-circle-arrow-left									arrow_rotate_anticlockwise
+icon-circle-arrow-right									arrow_rotate_clockwise
+icon-cloud-download										
+icon-cloud-up											
+icon-cloud-upload										
+icon-cog												cog
+icon-cogs                    emblem-system				
+icon-comment											comment
+icon-comments											comments
+icon-comment-alt										comment_add
+icon-copy                    edit-copy					page_copy
+icon-cut                     edit-cut					cut_red
+icon-edit                    accessories-text-editor	page_edit
+icon-envelope											email
+icon-envelope-alt										email_open
+icon-error												error
+icon-exclamation-sign									exclamation
+icon-eye-close               weather-clear-night		eye
+icon-facetime-video          x-office-presentation		film
+icon-file												page
+icon-file-alt											page_white
+icon-flag												flag_blue
+icon-folder-open										folder_page
+icon-folder-close										folder
+icon-group												group
+icon-hdd												drive
+icon-home                    go-home					house
+icon-inbox												folder_user
+icon-key												key
+icon-lightbulb											lightbulb
+icon-link												link
+icon-list												table
+icon-list-alt											table_multiple
+icon-lock                    emblem-readonly			lock
+icon-minus-sign											delete
+icon-money												money
+icon-ok													tick
+icon-ok-circle											accept
+icon-paperclip											attach
+icon-picture											picture
+icon-plus-sign											add
+icon-print                   document-print				printer
+icon-question-sign										oil.cemblem-question
+icon-recycle											arrow_refresh
+icon-redo                    edit-redo					arrow_redo
+icon-remove												cross
+icon-remove-circle										cancel
+icon-resize-full										arrow_out
+icon-resize-small										arrow_in
+icon-rss												rss
+icon-save												page_save
+icon-search												find
+icon-share												arrow_turn_right
+icon-signin												door_in
+icon-signout											door_out
+icon-sitemap											sitemap_color
+icon-sort												table_sort
+icon-tags												tag_blue
+icon-text												script
+icon-time                    appointment-new			time
+icon-trash                   edit-delete				bin
+icon-undo                    edit-undo					arrow_undo
+icon-unlock                  emblem-share				lock_open
+icon-user                    system-search				user
+icon-user-md                 system-users				user_female
+icon-video                   camera-video				television
+icon-volume-down										sound_delete
+icon-volume-up											sound_add
+icon-warning-sign            dialog-warning				oil.emblem-important-red
+icon-zoom-in											zoom_in
+icon-zoom-out											zoom_out
 
 
 
