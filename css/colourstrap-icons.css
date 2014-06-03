@@ -1,0 +1,181 @@
+ 
+class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 16px;
+  vertical-align: text-top;
+  background-image: url("../img/silk-icons.png");
+  background-position: 16px 16px;
+  background-repeat: no-repeat;
+}
+
+/* White icons with optional class, or on hover/focus/active states of certain elements */
+
+.icon-white,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("../img/silk-icons.png");
+}
+
+.icon-unlock { background-position: -0px -0px; width: 16px; height: 16px; }
+.icon-remove-circle { background-position: -16px -0px; width: 16px; height: 16px; }
+.icon-music { background-position: -32px -0px; width: 16px; height: 16px; }
+.icon-vcard { background-position: -48px -0px; width: 16px; height: 16px; }
+.icon-money { background-position: -64px -0px; width: 16px; height: 16px; }
+.icon-sitemap { background-position: -80px -0px; width: 16px; height: 16px; }
+.icon-resize-full { background-position: -96px -0px; width: 16px; height: 16px; }
+.icon-calendar { background-position: -112px -0px; width: 16px; height: 16px; }
+.icon-file-alt { background-position: -128px -0px; width: 16px; height: 16px; }
+.icon-date-edit { background-position: -144px -0px; width: 16px; height: 16px; }
+.icon-time { background-position: -160px -0px; width: 16px; height: 16px; }
+.icon-box { background-position: -176px -0px; width: 16px; height: 16px; }
+.icon-link { background-position: -0px -16px; width: 16px; height: 16px; }
+.icon-note-edit { background-position: -16px -16px; width: 16px; height: 16px; }
+.icon-question-sign { background-position: -32px -16px; width: 16px; height: 16px; }
+.icon-picture { background-position: -48px -16px; width: 16px; height: 16px; }
+.icon-anchor { background-position: -64px -16px; width: 16px; height: 16px; }
+.icon-asterisk { background-position: -80px -16px; width: 16px; height: 16px; }
+.icon-browser { background-position: -96px -16px; width: 16px; height: 16px; }
+.icon-paperclip { background-position: -112px -16px; width: 16px; height: 16px; }
+.icon-home { background-position: -128px -16px; width: 16px; height: 16px; }
+.icon-book-add { background-position: -144px -16px; width: 16px; height: 16px; }
+.icon-basket-add { background-position: -160px -16px; width: 16px; height: 16px; }
+.icon-cloud { background-position: -176px -16px; width: 16px; height: 16px; }
+.icon-file { background-position: -0px -32px; width: 16px; height: 16px; }
+.icon-exclamation-sign { background-position: -16px -32px; width: 16px; height: 16px; }
+.icon-error { background-position: -32px -32px; width: 16px; height: 16px; }
+.icon-wand { background-position: -48px -32px; width: 16px; height: 16px; }
+.icon-date-go { background-position: -64px -32px; width: 16px; height: 16px; }
+.icon-circle-arrow-right { background-position: -80px -32px; width: 16px; height: 16px; }
+.icon-book-edit { background-position: -96px -32px; width: 16px; height: 16px; }
+.icon-cogs { background-position: -112px -32px; width: 16px; height: 16px; }
+.icon-map { background-position: -128px -32px; width: 16px; height: 16px; }
+.icon-video { background-position: -144px -32px; width: 16px; height: 16px; }
+.icon-package { background-position: -160px -32px; width: 16px; height: 16px; }
+.icon-bullhorn { background-position: -176px -32px; width: 16px; height: 16px; }
+.icon-lock { background-position: -0px -48px; width: 16px; height: 16px; }
+.icon-flag { background-position: -16px -48px; width: 16px; height: 16px; }
+.icon-basket-error { background-position: -32px -48px; width: 16px; height: 16px; }
+.icon-date-add { background-position: -48px -48px; width: 16px; height: 16px; }
+.icon-redo { background-position: -64px -48px; width: 16px; height: 16px; }
+.icon-cog { background-position: -80px -48px; width: 16px; height: 16px; }
+.icon-text { background-position: -96px -48px; width: 16px; height: 16px; }
+.icon-note-error { background-position: -112px -48px; width: 16px; height: 16px; }
+.icon-book-key { background-position: -128px -48px; width: 16px; height: 16px; }
+.icon-vector { background-position: -144px -48px; width: 16px; height: 16px; }
+.icon-recycle { background-position: -160px -48px; width: 16px; height: 16px; }
+.icon-date-previous { background-position: -176px -48px; width: 16px; height: 16px; }
+.icon-bug { background-position: -0px -64px; width: 16px; height: 16px; }
+.icon-arrow-right { background-position: -16px -64px; width: 16px; height: 16px; }
+.icon-resize-small { background-position: -32px -64px; width: 16px; height: 16px; }
+.icon-folder-delete { background-position: -48px -64px; width: 16px; height: 16px; }
+.icon-hdd { background-position: -64px -64px; width: 16px; height: 16px; }
+.icon-comment-alt { background-position: -80px -64px; width: 16px; height: 16px; }
+.icon-arrow-up { background-position: -96px -64px; width: 16px; height: 16px; }
+.icon-envelope { background-position: -112px -64px; width: 16px; height: 16px; }
+.icon-comments { background-position: -128px -64px; width: 16px; height: 16px; }
+.icon-circle-arrow-left { background-position: -144px -64px; width: 16px; height: 16px; }
+.icon-map-add { background-position: -160px -64px; width: 16px; height: 16px; }
+.icon-date { background-position: -176px -64px; width: 16px; height: 16px; }
+.icon-bolt { background-position: -0px -80px; width: 16px; height: 16px; }
+.icon-basket-edit { background-position: -16px -80px; width: 16px; height: 16px; }
+.icon-date-delete { background-position: -32px -80px; width: 16px; height: 16px; }
+.icon-plus-sign { background-position: -48px -80px; width: 16px; height: 16px; }
+.icon-briefcase { background-position: -64px -80px; width: 16px; height: 16px; }
+.icon-basket { background-position: -80px -80px; width: 16px; height: 16px; }
+.icon-comment { background-position: -96px -80px; width: 16px; height: 16px; }
+.icon-tags { background-position: -112px -80px; width: 16px; height: 16px; }
+.icon-folder-close { background-position: -128px -80px; width: 16px; height: 16px; }
+.icon-volume-down { background-position: -144px -80px; width: 16px; height: 16px; }
+.icon-user-md { background-position: -160px -80px; width: 16px; height: 16px; }
+.icon-list { background-position: -176px -80px; width: 16px; height: 16px; }
+.icon-book-link { background-position: -0px -96px; width: 16px; height: 16px; }
+.icon-key { background-position: -16px -96px; width: 16px; height: 16px; }
+.icon-rss { background-position: -32px -96px; width: 16px; height: 16px; }
+.icon-date-link { background-position: -48px -96px; width: 16px; height: 16px; }
+.icon-folder-open { background-position: -64px -96px; width: 16px; height: 16px; }
+.icon-signin { background-position: -80px -96px; width: 16px; height: 16px; }
+.icon-list-alt { background-position: -96px -96px; width: 16px; height: 16px; }
+.icon-undo { background-position: -112px -96px; width: 16px; height: 16px; }
+.icon-bookmark-empty { background-position: -128px -96px; width: 16px; height: 16px; }
+.icon-cloud-upload { background-position: -144px -96px; width: 16px; height: 16px; }
+.icon-facetime-video { background-position: -160px -96px; width: 16px; height: 16px; }
+.icon-book-addresses { background-position: -176px -96px; width: 16px; height: 16px; }
+.icon-cloud-download { background-position: -0px -112px; width: 16px; height: 16px; }
+.icon-camera { background-position: -16px -112px; width: 16px; height: 16px; }
+.icon-group { background-position: -32px -112px; width: 16px; height: 16px; }
+.icon-map-go { background-position: -48px -112px; width: 16px; height: 16px; }
+.icon-eye { background-position: -64px -112px; width: 16px; height: 16px; }
+.icon-note-add { background-position: -80px -112px; width: 16px; height: 16px; }
+.icon-sort { background-position: -96px -112px; width: 16px; height: 16px; }
+.icon-trash { background-position: -112px -112px; width: 16px; height: 16px; }
+.icon-note { background-position: -128px -112px; width: 16px; height: 16px; }
+.icon-signout { background-position: -144px -112px; width: 16px; height: 16px; }
+.icon-share { background-position: -160px -112px; width: 16px; height: 16px; }
+.icon-ok { background-position: -176px -112px; width: 16px; height: 16px; }
+.icon-cloud-up { background-position: -0px -128px; width: 16px; height: 16px; }
+.icon-heart { background-position: -16px -128px; width: 16px; height: 16px; }
+.icon-basket-delete { background-position: -32px -128px; width: 16px; height: 16px; }
+.icon-zoom-out { background-position: -48px -128px; width: 16px; height: 16px; }
+.icon-vcard-add { background-position: -64px -128px; width: 16px; height: 16px; }
+.icon-copy { background-position: -80px -128px; width: 16px; height: 16px; }
+.icon-book { background-position: -96px -128px; width: 16px; height: 16px; }
+.icon-glass { background-position: -112px -128px; width: 16px; height: 16px; }
+.icon-envelope-alt { background-position: -128px -128px; width: 16px; height: 16px; }
+.icon-ok-circle { background-position: -144px -128px; width: 16px; height: 16px; }
+.icon-minus-sign { background-position: -160px -128px; width: 16px; height: 16px; }
+.icon-map-magnify { background-position: -176px -128px; width: 16px; height: 16px; }
+.icon-edit { background-position: -0px -144px; width: 16px; height: 16px; }
+.icon-book-delete { background-position: -16px -144px; width: 16px; height: 16px; }
+.icon-vcard-delete { background-position: -32px -144px; width: 16px; height: 16px; }
+.icon-cut { background-position: -48px -144px; width: 16px; height: 16px; }
+.icon-note-go { background-position: -64px -144px; width: 16px; height: 16px; }
+.icon-world { background-position: -80px -144px; width: 16px; height: 16px; }
+.icon-warning-sign { background-position: -96px -144px; width: 16px; height: 16px; }
+.icon-inbox { background-position: -112px -144px; width: 16px; height: 16px; }
+.icon-date-next { background-position: -128px -144px; width: 16px; height: 16px; }
+.icon-lightbulb { background-position: -144px -144px; width: 16px; height: 16px; }
+.icon-basket-remove { background-position: -160px -144px; width: 16px; height: 16px; }
+.icon-volume-up { background-position: -176px -144px; width: 16px; height: 16px; }
+.icon-map-delete { background-position: -0px -160px; width: 16px; height: 16px; }
+.icon-date-magnify { background-position: -16px -160px; width: 16px; height: 16px; }
+.icon-vcard-edit { background-position: -32px -160px; width: 16px; height: 16px; }
+.icon-zoom-in { background-position: -48px -160px; width: 16px; height: 16px; }
+.icon-book-error { background-position: -64px -160px; width: 16px; height: 16px; }
+.icon-user { background-position: -80px -160px; width: 16px; height: 16px; }
+.icon-folder-edit { background-position: -96px -160px; width: 16px; height: 16px; }
+.icon-book-next { background-position: -112px -160px; width: 16px; height: 16px; }
+.icon-basket-put { background-position: -128px -160px; width: 16px; height: 16px; }
+.icon-arrow-left { background-position: -144px -160px; width: 16px; height: 16px; }
+.icon-map-edit { background-position: -160px -160px; width: 16px; height: 16px; }
+.icon-print { background-position: -176px -160px; width: 16px; height: 16px; }
+.icon-book-open { background-position: -0px -176px; width: 16px; height: 16px; }
+.icon-save { background-position: -16px -176px; width: 16px; height: 16px; }
+.icon-remove { background-position: -32px -176px; width: 16px; height: 16px; }
+.icon-folder-add { background-position: -48px -176px; width: 16px; height: 16px; }
+.icon-eye-close { background-position: -64px -176px; width: 16px; height: 16px; }
+.icon-book-go { background-position: -80px -176px; width: 16px; height: 16px; }
+.icon-search { background-position: -96px -176px; width: 16px; height: 16px; }
+.icon-date-error { background-position: -112px -176px; width: 16px; height: 16px; }
+.icon-male { background-position: -128px -176px; width: 16px; height: 16px; }
+.icon-note-delete { background-position: -144px -176px; width: 16px; height: 16px; }
+.icon-bookmark { background-position: -160px -176px; width: 16px; height: 16px; }
+.icon-arrow-down { background-position: -176px -176px; width: 16px; height: 16px; }
