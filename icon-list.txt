@@ -1,0 +1,96 @@
+icon-archive
+icon-arrow-down
+icon-arrow-left
+icon-arrow-right
+icon-arrow-up
+icon-asterisk
+icon-bell
+icon-bell-alt
+icon-bolt
+icon-book
+icon-bookmark
+icon-bookmark-empty
+icon-bullhorn
+icon-calendar
+icon-camera
+icon-circle-arrow-left
+icon-circle-arrow-right
+icon-cloud-upload
+icon-cloud-download
+icon-cog
+icon-cogs
+icon-comment-alt
+icon-copy
+icon-credit-card
+icon-cut
+icon-date *
+icon-date-add *
+icon-desktop
+icon-edit
+icon-edit-sign
+icon-envelope
+icon-exclamation-sign
+icon-eye
+icon-eye-closed (not in fa4.1)
+icon-eye-open (not in fa4.1)
+icon-facetime-video
+icon-file
+icon-file-alt
+icon-flag
+icon-folder
+icon-folder-close
+icon-folder-closed-alt
+icon-folder-open
+icon-group
+icon-hdd
+icon-home
+icon-inbox
+icon-info-sign
+icon-key
+icon-list
+icon-list-ol
+icon-list-ul
+icon-lock
+icon-map *
+icon-map-magnify *
+icon-minus-sign
+icon-money
+icon-ok
+icon-ok-circle
+icon-ok-sign
+icon-page-pdf
+icon-paper-clip (icon-paperclip)
+icon-pencil
+icon-phone
+icon-picture
+icon-plus-sign
+icon-print
+icon-question-sign
+icon-recycle (fa4.1)
+icon-resize-full
+icon-refresh
+icon-remove
+icon-remove-circle
+icon-reorder
+icon-rss
+icon-search
+icon-signin
+icon-signout
+icon-sitemap
+icon-sort
+icon-sort-by-order
+icon-sort-down
+icon-sort-up
+icon-tags
+icon-time
+icon-trash
+icon-truck
+icon-undo
+icon-unlock
+icon-user
+icon-user-md
+icon-volume-down
+icon-volume-up
+icon-warning-sign
+icon-zoom-in
+icon-zoom-out
