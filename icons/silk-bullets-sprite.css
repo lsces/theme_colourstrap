@@ -1,0 +1,30 @@
+﻿
+.icon-bullet, .icon-bullet ul { margin-left: 0; padding: 0; list-style: none; }
+.icon-bullet li { background: transparent url(silk-bullets-sprite.png) ; margin: 0; padding: 0 0 0 16px; list-style: none; background-repeat: no-repeat; }
+
+.icon-bullet-add li { background-position: -286px 8px; }
+.icon-bullet-arrow-bottom li { background-position: -275px -16px; }
+.icon-bullet-arrow-down li { background-position: -264px -40px; }
+.icon-bullet-arrow-top li { background-position: -253px -64px; }
+.icon-bullet-arrow-up li { background-position: -242px -88px; }
+.icon-bullet-black li { background-position: -231px -112px; }
+.icon-bullet-blue li { background-position: -220px -136px; }
+.icon-bullet-delete li { background-position: -209px -160px; }
+.icon-bullet-disk li { background-position: -198px -184px; }
+.icon-bullet-error li { background-position: -187px -208px; }
+.icon-bullet-feed li { background-position: -176px -232px; }
+.icon-bullet-go li { background-position: -165px -256px; }
+.icon-bullet-green li { background-position: -154px -280px; }
+.icon-bullet-key li { background-position: -143px -304px; }
+.icon-bullet-orange li { background-position: -132px -328px; }
+.icon-bullet-picture li { background-position: -121px -352px; }
+.icon-bullet-pink li { background-position: -110px -376px; }
+.icon-bullet-purple li { background-position: -99px -400px; }
+.icon-bullet-red li { background-position: -88px -424px; }
+.icon-bullet-star li { background-position: -77px -448px; }
+.icon-bullet-toggle-minus li { background-position: -66px -472px; }
+.icon-bullet-toggle-plus li { background-position: -55px -496px; }
+.icon-bullet-white li { background-position: -44px -520px; }
+.icon-bullet-wrench li { background-position: -33px -544px; }
+.icon-bullet-yellow li { background-position: -22px -568px; }
+.icon-bullet-tick li { background-position: -11px -592px; }
