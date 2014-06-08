@@ -119,6 +119,8 @@ footer .stats	{font-size:9pt;}
 }
 #banner img	{width: 1920px; overflow: hidden;}
 
+.icon { float: left; padding: 2px 10px; }
+
 @media (min-width: 768px) {
 .col-sm-15 {
         width: 20%;
