@@ -77,7 +77,7 @@
 .icon-application-xp-terminal { background-position: -112px -16px; width: 16px; height: 16px; }
 .icon-arrow-branch { background-position: -128px -16px; width: 16px; height: 16px; }
 .icon-arrow-divide { background-position: -144px -16px; width: 16px; height: 16px; }
-.icon-arrow-down { background-position: -160px -16px; width: 16px; height: 16px; }
+.icon-arrow-down, .icon-sort-down { background-position: -160px -16px; width: 16px; height: 16px; }
 .icon-arrow-in, .icon-resize-small { background-position: -176px -16px; width: 16px; height: 16px; }
 .icon-arrow-inout { background-position: -192px -16px; width: 16px; height: 16px; }
 .icon-arrow-join { background-position: -208px -16px; width: 16px; height: 16px; }
@@ -94,7 +94,7 @@
 .icon-arrow-turn-left { background-position: -384px -16px; width: 16px; height: 16px; }
 .icon-arrow-turn-right, .icon-share { background-position: -400px -16px; width: 16px; height: 16px; }
 .icon-arrow-undo, .icon-undo { background-position: -416px -16px; width: 16px; height: 16px; }
-.icon-arrow-up { background-position: -432px -16px; width: 16px; height: 16px; }
+.icon-arrow-up, .icon-sort-up { background-position: -432px -16px; width: 16px; height: 16px; }
 .icon-asterisk-orange, .icon-asterisk { background-position: -448px -16px; width: 16px; height: 16px; }
 .icon-asterisk-yellow { background-position: -464px -16px; width: 16px; height: 16px; }
 .icon-attach, .icon-paperclip { background-position: -480px -16px; width: 16px; height: 16px; }
